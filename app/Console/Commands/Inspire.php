@@ -24,7 +24,7 @@ class Inspire extends Command
     /**
      * Execute the console command.
      *
-     * @return mixed
+     * @return  mixed
      */
     public function handle()
     {
